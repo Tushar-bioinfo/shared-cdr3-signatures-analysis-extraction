@@ -2,8 +2,7 @@
 
 A Python-based pipeline for identifying shared high-frequency CDR3 amino acid (AA) motifs from tumor-infiltrating lymphocyte repertoires and evaluating their association with overall survival across multiple cancer types.
 
-This project was developed to support the analysis presented in [Pan-cancer, high frequency TRB CDR3 amino acid motifs are associated with outcomes specifically for uterine cancer<img width="468" height="78" alt="image" src="https://github.com/user-attachments/assets/109b5571-791d-4b4c-8335-e069db508dd8" />
-], focused on short motif recurrence in TRB and IGH repertoires from CPTAC-3 tumor RNA-seq datasets.
+This project was developed to support the analysis presented in [Pan-cancer, high frequency TRB CDR3 amino acid motifs are associated with outcomes specifically for uterine cancer], focused on short motif recurrence in TRB and IGH repertoires from CPTAC-3 tumor RNA-seq datasets.
 
 ---
 
